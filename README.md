@@ -1,4 +1,3 @@
-# OM-KUMAR
 # Hi there, I'm Om 👋 
 
 ### 🚀 Software & Machine Learning Engineer
@@ -21,22 +20,22 @@ Candidate for Master of Computer Applications | Focused on Scalable Backend Arch
 ### 📊 GitHub Activity & Metrics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OMKR01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMKR01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMKR01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
-- 🌊 **[HydroPulse AI](https://github.com/YOUR_GITHUB_USERNAME/HydroPulse-AI)** — Real-time environmental risk engine for flood & drought detection using spatial telemetry.
-- ⚡ **[Enterprise DB Engine](https://github.com/YOUR_GITHUB_USERNAME)** — High-concurrency backend architecture with optimized SQL schemas & Spring Boot.
+- 🌊 **[HydroPulse AI](https://github.com/OMKR01/HydroPulse-AI)** — Real-time environmental risk engine for flood & drought detection using spatial telemetry.
+- ⚡ **[Enterprise DB Engine](https://github.com/OMKR01)** — High-concurrency backend architecture with optimized SQL schemas & Spring Boot.
 
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my_portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkr03)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-one-lyart-70.vercel.app)
